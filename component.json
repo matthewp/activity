@@ -1,0 +1,21 @@
+{
+  "name": "activity",
+  "repo": "matthewp/activity",
+  "description": "s",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "./lib/bindable.js",
+    "./lib/action_bar.js",
+    "./lib/activity.js",
+    "./lib/activity_manager.js",
+    "index.js",
+    "template.js"
+  ],
+  "styles": [
+    "activity.css"
+  ]
+}
